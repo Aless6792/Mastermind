@@ -1,0 +1,6 @@
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\bin\Debug\Mastermind BTS SIO.exe.config
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\bin\Debug\Mastermind BTS SIO.exe
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\bin\Debug\Mastermind BTS SIO.pdb
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\obj\Debug\Mastermind BTS SIO.csprojResolveAssemblyReference.cache
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\obj\Debug\Mastermind BTS SIO.exe
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.1 MasterMind\MastermindBTS_SIO\Mastermind BTS SIO\Mastermind BTS SIO\obj\Debug\Mastermind BTS SIO.pdb
