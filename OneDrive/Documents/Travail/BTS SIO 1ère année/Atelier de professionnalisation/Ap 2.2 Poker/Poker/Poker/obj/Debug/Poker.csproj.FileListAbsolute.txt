@@ -1,0 +1,9 @@
+C:\Users\Stoorms\Documents\SharpDevelop Projects\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Stoorms\Documents\SharpDevelop Projects\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Stoorms\Documents\SharpDevelop Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Stoorms\Documents\SharpDevelop Projects\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Stoorms\Documents\SharpDevelop Projects\Poker\Poker\obj\Debug\Poker.pdb
+\\WDSENTINEL\Documents\SALLE B 305\Atelier de professionnalisation\Ap 2.2 Poker\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+\\WDSENTINEL\Documents\SALLE B 305\Atelier de professionnalisation\Ap 2.2 Poker\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.2 Poker\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\aless\OneDrive\Documents\Travail\BTS SIO 1ère année\Atelier de professionnalisation\Ap 2.2 Poker\Poker\Poker\obj\Debug\Poker.exe
